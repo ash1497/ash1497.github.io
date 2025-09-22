@@ -27,8 +27,6 @@ ul { line-height: 1.6; }
       Software Developer with strength across <strong>full-stack apps</strong>, <strong>AI/ML & data pipelines</strong>, and <strong>embedded/hardware</strong>.
     </p>
   </div>
-  <!-- Replace with your own headshot -->
-  <img src="/assets/img/profile.jpg" alt="Aashir Hussain headshot">
 </div>
 
 <hr class="hr"/>
@@ -90,17 +88,12 @@ I thrive at the intersection of <strong>applications, data, and hardware systems
 GenAI-powered mobile app that extracts receipt data via OCR/LLMs and outputs Excel-ready formats.  
 <strong>Tech:</strong> <em>Flutter</em>, <em>FastAPI</em>, <em>OpenAI</em>, <em>Firebase</em>, <em>GCP Cloud Run</em>  
 <div class="badges">
-  <a href="https://github.com/ash1497" target="_blank">Repo</a>
-  <a href="https://github.com/ash1497" target="_blank">Demo</a>
+  <a href="https://github.com/ash1497/expensesnap" target="_blank">Repo</a>
 </div>
 
 ### Vesta
 Android logistics app with <strong>Jetpack Compose</strong> UI, <strong>Spring Boot</strong> backend, <strong>PostgreSQL</strong>, <strong>Kafka</strong>, and <strong>ARCore</strong>.  
 <strong>Tech:</strong> <em>Android (Compose)</em>, <em>Spring Boot</em>, <em>PostgreSQL</em>, <em>Kafka</em>, <em>ARCore</em>  
-<div class="badges">
-  <a href="https://github.com/ash1497" target="_blank">Repo</a>
-  <a href="https://github.com/ash1497" target="_blank">Demo</a>
-</div>
 
 <hr class="hr"/>
 
