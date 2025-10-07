@@ -32,8 +32,7 @@ ul { line-height: 1.6; }
 <hr class="hr"/>
 
 ## Education
-- <strong>Honours Bachelor of Computer Science (Mobile Computing)</strong> — Sheridan College (2020–2024)  
-- <strong>Completed 2+ years in Computer Engineering</strong> — Toronto Metropolitan University (2015–2019)
+- <strong>Honours Bachelor of Computer Science (Mobile Computing)</strong> — Sheridan College  
 
 <hr class="hr"/>
 
@@ -51,12 +50,6 @@ I thrive at the intersection of <strong>applications, data, and hardware systems
 <hr class="hr"/>
 
 ## Experience
-### KPM Power Inc. — Hardware Assembler (Line Lead) <span class="meta">Mar 2022 – Present</span>
-- Built and validated <strong>BMS harnesses</strong> to <strong>IPC</strong> standards; executed <strong>hi-pot</strong> and <strong>continuity</strong> testing to ensure compliance.
-- Performed <strong>software validation</strong> on embedded monitoring systems; identified and resolved <strong>7+ critical defects</strong> prior to deployment.
-- Collaborated on <strong>hardware/software integration</strong>, debugging issues across <strong>Raspberry Pi</strong>, test jigs, and firmware interfaces.
-- Coordinated line operations, trained junior techs, and documented procedures for consistent results.
-
 ### STYLA — Mobile Application Developer <span class="meta">Nov 2024 – Apr 2025</span>
 - Shipped a cross-platform app (iOS/Android) with <strong>Flutter</strong> (MVVM), released to app stores.
 - Implemented secure auth/media with <strong>AWS Cognito</strong>, <strong>CloudFront</strong>, and <strong>API Gateway</strong>.
@@ -76,6 +69,12 @@ I thrive at the intersection of <strong>applications, data, and hardware systems
 - Built unit tests for a voice cloning/translation service (<strong>Node.js</strong>).
 - Curated datasets; trained classifiers with ~<strong>98.6% accuracy</strong>.
 - Integrated synthetic voice workflows to reduce costs.
+
+### KPM Power Inc. — Hardware Assembler (Line Lead) <span class="meta">Mar 2022 – Present</span>
+- Built and validated <strong>BMS harnesses</strong> to <strong>IPC</strong> standards; executed <strong>hi-pot</strong> and <strong>continuity</strong> testing to ensure compliance.
+- Performed <strong>software validation</strong> on embedded monitoring systems; identified and resolved <strong>7+ critical defects</strong> prior to deployment.
+- Collaborated on <strong>hardware/software integration</strong>, debugging issues across <strong>Raspberry Pi</strong>, test jigs, and firmware interfaces.
+- Coordinated line operations, trained junior techs, and documented procedures for consistent results.
 
 ### Canada Computers — Computer Technician <span class="meta">2017 – 2022</span>
 - Built custom desktops and performed diagnostics/repairs for clients.
